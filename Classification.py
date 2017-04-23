@@ -11,7 +11,7 @@ freeway
 golfcourse
 harbor
 intersection
-mediumresidenial
+mediumresidential
 mobilehomepark
 overpass
 parkinglot
